@@ -1,0 +1,52 @@
+
+.theme-dark {
+    --scrollbar-auto-scrollbar-color-thumb: #dd192b;
+    --channels-default: #a0a0a0;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --background-modifier-hover: #8a8a8a31;
+    --background-modifier-active: #6b6b6b81;
+    --scrollbar-thin-thumb: #29489b8c;
+    --scrollbar-auto-scrollbar-color-thumb: #3683f7;
+    --new-message-bar: #f9932685;
+}
+/*Background*/
+body {
+    background-image: url(https://cdn.discordapp.com/attachments/570297847182786579/829384531319455764/88705562_p0.png);
+    background-position: center 50%;
+    background-size: cover;
+}
+.theme-dark {
+    --background-primary: #36393f31;
+    --background-secondary: #34374231;
+    --background-secondary-alt: #2c2e31;
+    --background-tertiary: #2b2d3044; 
+    --background-floating: #20212549;
+}
+.theme-dark .container-1D34oG {
+    background-color: var(--background-tertiary);
+}
+.applicationStore-1pNvnv {
+    background-color: var(--background-tertiary);
+}
+.newMessagesBar-265mhP{
+    background-color: var(--new-message-bar);
+}
+.theme-dark {
+    --background-thumbnail-discord: url(https://cdn.discordapp.com/attachments/570297847182786579/829998133399519302/1.png);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    color: #fff0;
+    background-color: #7289da00;
+    background-image: var(--background-thumbnail-discord); 
+    background-size: cover;
+}
+.childWrapper-anI2G9 {
+    color: #fff0;
+    background-color: #7289da00;
+    background-image: var(--background-thumbnail-discord); 
+    background-size: cover;
+}
+.menu-3sdvDG {
+   background: #1313137a;
+}
